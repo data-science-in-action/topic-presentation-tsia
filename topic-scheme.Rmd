@@ -1,0 +1,36 @@
+---
+title: "topic scheme"
+author: "乔姝婧&emsp;段成凤&emsp;苏思宁&emsp;张楠"
+date:  "2020/4/12"
+output:
+  pdf_document:
+    fig_height: 6
+    fig_width: 10
+    latex_engine: xelatex
+  word_document: default
+  html_document:
+    df_print: paged
+CJKmainfont: Microsoft YaHei
+zihao: 15
+---
+# 研究主题   
+&emsp;&emsp;新冠疫情传播模型分析及可视化探究  
+
+# 研究问题   
+&emsp;&emsp;分别介绍了几种疫情传播的动力学模型的基本原理，演绎，并且基于SEITR模型的就武汉市疫情传播机制做出模拟。    
+
+# 研究方法  
+&emsp;&emsp;致力于介绍构建新型冠状病毒肺炎疫情扩散的SIR模型，SEIR模型和进阶的C-SEIR模型，通过对比SI、SIS、SIR、SEIR以及SEITR等动力学模型对此次发生在武汉市的疫情中的几种感染情况进行仿真模拟研究，以传染概率、治愈率、移除率和消除率为基本参数进行疫情趋势的模拟。    
+
+# 报告内容  
+&emsp;&emsp;乔姝婧介绍研究的基本流程和背景  
+&emsp;&emsp;段成凤介绍SIR模型的原理及推导  
+&emsp;&emsp;苏思宁对比分析SEIR模型以及进阶的C-SEIR模型   
+&emsp;&emsp;张楠介绍几种常见的传染病模型的可视化以及基于SEITR模型武汉市疫情模拟  
+
+# 具体流程  
+&emsp;&emsp;3月26日小组创建并进行第一次小组讨论，确定研究主题  
+&emsp;&emsp;4月7日进行第二次讨论，并且对小组进行工作分工  
+&emsp;&emsp;4月15日对收集资料做探讨分析  
+&emsp;&emsp;4月20日制作Beamer  
+&emsp;&emsp;4月23日上传Beamer，代码以及Python文件  
